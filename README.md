@@ -1,6 +1,6 @@
 | Nama      | Muhammad Albedri |
 | ----------- | ----------- |
-| NIM     | 312210293       |
+| NIM     | 312210290       |
 | Kelas   | TI.22.A.3        |
 | Tugas   | UTS PENGELOLAAN CITRA        |
 # RGB ke HSV
